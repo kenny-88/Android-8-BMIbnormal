@@ -1,4 +1,4 @@
-package com.example.android_num8_bmiabnormal;
+package com.example.androidhw8bmibnormal;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -31,7 +31,7 @@ public class MainActivity2 extends AppCompatActivity {
             bmi = weight / (height * height);
             TextView bmitit = (TextView)findViewById(R.id.tv3);
             bmitit.setText(nf.format(bmi));
-            TextView abnormal = (TextView)findViewById(R.id.ed4);
+            TextView abnormal = (TextView)findViewById(R.id.tv6);
             if (bmi < 18.5){
                 abnormal.setText("異常(體重過輕)");
             }

@@ -1,4 +1,4 @@
-package com.example.android_8_bmibnormal;
+package com.example.androidhw8bmibnormal;
 
 import org.junit.Test;
 

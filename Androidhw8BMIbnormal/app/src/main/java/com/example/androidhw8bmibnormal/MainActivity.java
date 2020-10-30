@@ -1,4 +1,4 @@
-package com.example.android_num8_bmiabnormal;
+package com.example.androidhw8bmibnormal;
 
 import androidx.appcompat.app.AppCompatActivity;
 
